@@ -5,12 +5,12 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "Anonymous"
+    "text": ""
   },
   "text": {
     "more": "",
     "intro": "This network represents relationships between authors based solely on endorsement of one another\u0027s books in the form of solicited blurbs (and in a small number of cases, introductions). ",
-    "title": "The Literary Blurb Economy"
+    "title": ""
   },
   "legend": {
     "edgeLabel": "Blurb transaction",
@@ -19,11 +19,11 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "color",
+    "groupSelectorAttribute": "Modularity Class",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": true,
+    "groupByEdgeDirection": false,
     "imageAttribute": false
   },
   "sigma": {
